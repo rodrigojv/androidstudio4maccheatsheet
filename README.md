@@ -87,6 +87,7 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
 | Move statement up   | ⇧ ⌘ ↑         |               | 
 | Move statement down | ⇧ ⌘ ↓         |               | 
 | Delete line         | ⌘ ⌫           |               | 
+| Comment line        | ⌘ /           |               | 
 
 
 ### Git / SCM
